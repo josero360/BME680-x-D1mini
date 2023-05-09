@@ -1,14 +1,14 @@
-Item;Qty;Reference(s);Value;DNP;LibPart;Footprint;Link
-1;1;C101;100n;;Device:C;Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
-2;2;C102, C103;10µ;;Device:C;Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
-3;1;J101;Conn_01x06;1;Connector_Generic:Conn_01x06;Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;
-4;1;J102;Conn_01x02_Socket;;Connector:Conn_01x02_Socket;Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
-5;2;JP101, JP102;Jumper_3_Open;1;Jumper:Jumper_3_Open;Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm;
-6;1;JP103;Jumper_2_Bridged;;Jumper:Jumper_2_Bridged;Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
-7;3;R101, R102, R103;4k7;;Device:R;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
-8;2;R104, R105;R;;Device:R;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
-9;3;R106, R107, R108;100k;;Device:R;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
-10;1;U101;BME680;;Sensor:BME680;Package_LGA:Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering;https://www.digikey.de/de/products/detail/bosch-sensortec/BME680/7401317
-11;1;U102;ESP8266_WeMos_D1_mini;1;ESP8266:WeMos_D1_mini;ESP8266:wemos-d1-mini-connectors-only;
-12;1;U103;AP7361C-33E;;Regulator_Linear:AP7361C-33E;Package_TO_SOT_SMD:SOT-89-5_Handsoldering;https://www.digikey.de/de/products/detail/diodes-incorporated/AP7361C-33Y5-13/5638323
-13;1;U104;MAX1811;;Battery_Management:MAX1811;Package_SO:SOIC-8_3.9x4.9mm_P1.27mm;https://www.digikey.de/de/products/detail/analog-devices-inc-maxim-integrated/MAX1811ESA/1513383
+Item;Qty;Reference(s);Value;DNO;Warenkorb;LibPart;Footprint;Link
+1;1;C101;100n;1;;Device:C;Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+2;2;C102, C103;10µ;;1;Device:C;Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;
+3;1;J101;Conn_01x06;1;;Connector_Generic:Conn_01x06;Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical;
+4;1;J102;Conn_01x02_Socket;1;;Connector:Conn_01x02_Socket;Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+5;2;JP101, JP102;Jumper_3_Open;1;;Jumper:Jumper_3_Open;Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm;
+6;1;JP103;Jumper_2_Bridged;1;;Jumper:Jumper_2_Bridged;Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+7;3;R101, R102, R103;4k7;1;;Device:R;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+8;2;R104, R105;R;1;;Device:R;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+9;3;R106, R107, R108;100k;1;;Device:R;Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;
+10;1;U101;BME680;;1;Sensor:BME680;Package_LGA:Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering;https://www.digikey.de/de/products/detail/bosch-sensortec/BME680/7401317
+11;1;U102;ESP8266_WeMos_D1_mini;1;;ESP8266:WeMos_D1_mini;ESP8266:wemos-d1-mini-connectors-only;
+12;1;U103;AP7361C-33E;;1;Regulator_Linear:AP7361C-33E;Package_TO_SOT_SMD:SOT-89-5_Handsoldering;https://www.digikey.de/de/products/detail/diodes-incorporated/AP7361C-33Y5-13/5638323
+13;1;U104;MAX1811;;1;Battery_Management:MAX1811;Package_SO:SOIC-8_3.9x4.9mm_P1.27mm;https://www.digikey.de/de/products/detail/analog-devices-inc-maxim-integrated/MAX1811ESA/1513383
